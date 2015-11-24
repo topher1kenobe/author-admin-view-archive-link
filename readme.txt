@@ -1,5 +1,6 @@
 === Author Admin View Archive Link ===
 Contributors: topher1kenobe
+Tags: users, author, archive
 Requires at least: 3.0
 Tested up to: 4.3
 Stable tag: 1.0
