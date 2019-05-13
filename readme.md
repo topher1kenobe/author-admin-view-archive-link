@@ -6,7 +6,7 @@ Creates a View Archive link in the list of authors on the Users admin page.
 **Contributors:** [topher1kenobe](http://profiles.wordpress.org/topher1kenobe)  
 **Tags:** [users](http://wordpress.org/plugins/tags/users), [author](http://wordpress.org/plugins/tags/author), [archive](http://wordpress.org/plugins/tags/archive)  
 **Requires at least:** 3.0  
-**Tested up to:** 4.3  
+**Tested up to:** 5.2  
 **Stable tag:** 1.0  
 **License:** [GPL](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)  
 

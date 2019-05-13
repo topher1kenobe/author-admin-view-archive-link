@@ -2,7 +2,7 @@
 Contributors: topher1kenobe
 Tags: users, author, archive
 Requires at least: 3.0
-Tested up to: 4.3
+Tested up to: 5.2
 Stable tag: 1.0
 License: GPL
 License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
